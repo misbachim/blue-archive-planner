@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blue-archive-planner/static/css/main.7e4fad67.css",
+    "main.js": "/blue-archive-planner/static/js/main.de5113fb.js",
+    "static/js/787.809a71c0.chunk.js": "/blue-archive-planner/static/js/787.809a71c0.chunk.js",
+    "index.html": "/blue-archive-planner/index.html",
+    "main.7e4fad67.css.map": "/blue-archive-planner/static/css/main.7e4fad67.css.map",
+    "main.de5113fb.js.map": "/blue-archive-planner/static/js/main.de5113fb.js.map",
+    "787.809a71c0.chunk.js.map": "/blue-archive-planner/static/js/787.809a71c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e4fad67.css",
+    "static/js/main.de5113fb.js"
+  ]
+}
