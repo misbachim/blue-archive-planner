@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Nebra_0",
+    "type": "artifact",
+    "item": "Nebra",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/0/06/Nebra_0.png",
+    "tier": 0
+  },
+  {
+    "name": "Nebra_1",
+    "type": "artifact",
+    "item": "Nebra",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/c/cf/Nebra_1.png",
+    "tier": 1
+  },
+  {
+    "name": "Nebra_2",
+    "type": "artifact",
+    "item": "Nebra",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/4/49/Nebra_2.png",
+    "tier": 2
+  },
+  {
+    "name": "Nebra_3",
+    "type": "artifact",
+    "item": "Nebra",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/6/69/Nebra_3.png",
+    "tier": 3
+  },
+  {
+    "name": "Phaistos_0",
+    "type": "artifact",
+    "item": "Phaistos",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/1/16/Phaistos_0.png",
+    "tier": 0
+  },
+  {
+    "name": "Phaistos_1",
+    "type": "artifact",
+    "item": "Phaistos",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/d/dc/Phaistos_1.png",
+    "tier": 1
+  },
+  {
+    "name": "Phaistos_2",
+    "type": "artifact",
+    "item": "Phaistos",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/9/91/Phaistos_2.png",
+    "tier": 2
+  },
+  {
+    "name": "Phaistos_3",
+    "type": "artifact",
+    "item": "Phaistos",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/73/Phaistos_3.png",
+    "tier": 3
+  },
+  {
+    "name": "Aether_0",
+    "type": "artifact",
+    "item": "Aether",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/a/ae/Ether_0.png",
+    "tier": 0
+  },
+  {
+    "name": "Aether_1",
+    "type": "artifact",
+    "item": "Aether",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/6/66/Ether_1.png",
+    "tier": 1
+  },
+  {
+    "name": "Aether_2",
+    "type": "artifact",
+    "item": "Aether",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/d/df/Ether_2.png",
+    "tier": 2
+  },
+  {
+    "name": "Aether_3",
+    "type": "artifact",
+    "item": "Aether",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/b/bc/Ether_3.png",
+    "tier": 3
+  },
+  {
+    "name": "Nimrud_0",
+    "type": "artifact",
+    "item": "Nimrud",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/3/39/Nimrud_0.png",
+    "tier": 0
+  },
+  {
+    "name": "Nimrud_1",
+    "type": "artifact",
+    "item": "Nimrud",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/1/18/Nimrud_1.png",
+    "tier": 1
+  },
+  {
+    "name": "Nimrud_2",
+    "type": "artifact",
+    "item": "Nimrud",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/0/05/Nimrud_2.png",
+    "tier": 2
+  },
+  {
+    "name": "Nimrud_3",
+    "type": "artifact",
+    "item": "Nimrud",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/a/a7/Nimrud_3.png",
+    "tier": 3
+  },
+  {
+    "name": "Mandragora_0",
+    "type": "artifact",
+    "item": "Mandragora",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/1/16/Phaistos_0.png",
+    "tier": 0
+  },
+  {
+    "name": "Mandragora_1",
+    "type": "artifact",
+    "item": "Mandragora",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/d/dc/Phaistos_1.png",
+    "tier": 1
+  },
+  {
+    "name": "Mandragora_2",
+    "type": "artifact",
+    "item": "Mandragora",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/9/91/Phaistos_2.png",
+    "tier": 2
+  },
+  {
+    "name": "Mandragora_3",
+    "type": "artifact",
+    "item": "Mandragora",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/73/Phaistos_3.png",
+    "tier": 3
+  },
+  {
+    "name": "Rohonc_0",
+    "type": "artifact",
+    "item": "Rohonc",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/5/51/Rohonc_0.png",
+    "tier": 0
+  },
+  {
+    "name": "Rohonc_1",
+    "type": "artifact",
+    "item": "Rohonc",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/f/fe/Rohonc_1.png",
+    "tier": 1
+  },
+  {
+    "name": "Rohonc_2",
+    "type": "artifact",
+    "item": "Rohonc",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/2/26/Rohonc_2.png",
+    "tier": 2
+  },
+  {
+    "name": "Rohonc_3",
+    "type": "artifact",
+    "item": "Rohonc",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/e/ef/Rohonc_3.png",
+    "tier": 3
+  },
+  {
+    "name": "Wolfsegg_0",
+    "type": "artifact",
+    "item": "Wolfsegg",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/6/6d/Wolfsegg_0.png",
+    "tier": 0
+  },
+  {
+    "name": "Wolfsegg_1",
+    "type": "artifact",
+    "item": "Wolfsegg",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/8/8c/Wolfsegg_1.png",
+    "tier": 1
+  },
+  {
+    "name": "Wolfsegg_2",
+    "type": "artifact",
+    "item": "Wolfsegg",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/6/67/Wolfsegg_2.png",
+    "tier": 2
+  },
+  {
+    "name": "Wolfsegg_3",
+    "type": "artifact",
+    "item": "Wolfsegg",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/9/90/Wolfsegg_3.png",
+    "tier": 3
+  },
+  {
+    "name": "Antikythera_0",
+    "type": "artifact",
+    "item": "Antikythera",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/3/31/Antikythera_0.png",
+    "tier": 0
+  },
+  {
+    "name": "Antikythera_1",
+    "type": "artifact",
+    "item": "Antikythera",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/2/2e/Antikythera_1.png",
+    "tier": 1
+  },
+  {
+    "name": "Antikythera_2",
+    "type": "artifact",
+    "item": "Antikythera",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/c/c2/Antikythera_2.png",
+    "tier": 2
+  },
+  {
+    "name": "Antikythera_3",
+    "type": "artifact",
+    "item": "Antikythera",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/3/3e/Antikythera_3.png",
+    "tier": 3
+  },
+  {
+    "name": "Voynich_0",
+    "type": "artifact",
+    "item": "Voynich",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/b/b4/Voynich_0.png",
+    "tier": 0
+  },
+  {
+    "name": "Voynich_1",
+    "type": "artifact",
+    "item": "Voynich",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/e/ef/Voynich_1.png",
+    "tier": 1
+  },
+  {
+    "name": "Voynich_2",
+    "type": "artifact",
+    "item": "Voynich",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/3/3d/Voynich_2.png",
+    "tier": 2
+  },
+  {
+    "name": "Voynich_3",
+    "type": "artifact",
+    "item": "Voynich",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/3/3a/Voynich_3.png",
+    "tier": 3
+  },
+  {
+    "name": "Haniwa_0",
+    "type": "artifact",
+    "item": "Haniwa",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/b/bc/Crystal_Haniwa_0.png",
+    "tier": 0
+  },
+  {
+    "name": "Haniwa_1",
+    "type": "artifact",
+    "item": "Haniwa",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/4/4a/Crystal_Haniwa_1.png",
+    "tier": 1
+  },
+  {
+    "name": "Haniwa_2",
+    "type": "artifact",
+    "item": "Haniwa",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/79/Crystal_Haniwa_2.png",
+    "tier": 2
+  },
+  {
+    "name": "Haniwa_3",
+    "type": "artifact",
+    "item": "Haniwa",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/1/13/Crystal_Haniwa_3.png",
+    "tier": 3
+  },
+  {
+    "name": "Totem_0",
+    "type": "artifact",
+    "item": "Totem",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/d/db/Totem_0.png",
+    "tier": 0
+  },
+  {
+    "name": "Totem_1",
+    "type": "artifact",
+    "item": "Totem",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/1/19/Totem_1.png",
+    "tier": 1
+  },
+  {
+    "name": "Totem_2",
+    "type": "artifact",
+    "item": "Totem",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/d/d3/Totem_2.png",
+    "tier": 2
+  },
+  {
+    "name": "Totem_3",
+    "type": "artifact",
+    "item": "Totem",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/f/fd/Totem_3.png",
+    "tier": 3
+  },
+  {
+    "name": "Baghdad_0",
+    "type": "artifact",
+    "item": "Baghdad",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/6/6b/Baghdad_0.png",
+    "tier": 0
+  },
+  {
+    "name": "Baghdad_1",
+    "type": "artifact",
+    "item": "Baghdad",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/6/61/Baghdad_1.png",
+    "tier": 1
+  },
+  {
+    "name": "Baghdad_2",
+    "type": "artifact",
+    "item": "Baghdad",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/9/9c/Baghdad_2.png",
+    "tier": 2
+  },
+  {
+    "name": "Baghdad_3",
+    "type": "artifact",
+    "item": "Baghdad",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/2/2c/Baghdad_3.png",
+    "tier": 3
+  }
+]

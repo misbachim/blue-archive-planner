@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Exp Report",
+    "type": "expReport",
+    "item": "expReport",
+    "tier": 0,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/6/68/Exp_Report_0.png"
+  },
+  {
+    "name": "Exp Report",
+    "type": "expReport",
+    "item": "expReport",
+    "tier": 1,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/e/e1/Exp_Report_1.png"
+  },
+  {
+    "name": "Exp Report",
+    "type": "expReport",
+    "item": "expReport",
+    "tier": 2,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/5/5b/Exp_Report_2.png"
+  },
+  {
+    "name": "Exp Report",
+    "type": "expReport",
+    "item": "expReport",
+    "tier": 3,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/5/5e/Exp_Report_3.png"
+  },
+  {
+    "name": "Exp Orb",
+    "type": "expOrb",
+    "item": "expOrb",
+    "tier": 0,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/b/b9/Exp_Orb_0.png"
+  },
+  {
+    "name": "Exp Orb",
+    "type": "expOrb",
+    "item": "expOrb",
+    "tier": 1,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/4/43/Exp_Orb_1.png"
+  },
+  {
+    "name": "Exp Orb",
+    "type": "expOrb",
+    "item": "expOrb",
+    "tier": 2,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/d/d1/Exp_Orb_2.png"
+  },
+  {
+    "name": "Exp Orb",
+    "type": "expOrb",
+    "item": "expOrb",
+    "tier": 3,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/6/67/Exp_Orb_3.png"
+  },
+  {
+    "name": "Credit",
+    "type": "credit",
+    "item": "credit",
+    "tier": 1,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/1/10/Gold.png"
+  }
+]

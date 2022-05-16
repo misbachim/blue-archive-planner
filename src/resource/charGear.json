@@ -1,0 +1,350 @@
+[
+  {
+    "student": "Airi",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Akane",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Akari",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Ako",
+    "equipment": ["Gloves", "Badge", "Necklace"]
+  },
+  {
+    "student": "Aris",
+    "equipment": ["Hat", "Hairpin", "Charm"]
+  },
+  {
+    "student": "Aru",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Aru_NewYear",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Asuna",
+    "equipment": ["Gloves", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Asuna_Bunny",
+    "equipment": ["Gloves", "Badge", "Watch"]
+  },
+  {
+    "student": "Ayane",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Azusa",
+    "equipment": ["Gloves", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Azusa_Swimsuit",
+    "equipment": ["Gloves", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Cherino",
+    "equipment": ["Shoes", "Badge", "Watch"]
+  },
+  {
+    "student": "Cherino_HotSpring",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Chihiro",
+    "equipment": ["Hat", "Badge", "Necklace"]
+  },
+  {
+    "student": "Chinatsu",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Chinatsu_HotSpring",
+    "equipment": ["Shoes", "Badge", "Charm"]
+  },
+  {
+    "student": "Chise",
+    "equipment": ["Gloves", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Eimi",
+    "equipment": ["Shoes", "Bag", "Charm"]
+  },
+  {
+    "student": "Fubuki",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Fuuka",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Hanae",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Hanako",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Hare",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Haruka",
+    "equipment": ["Shoes", "Bag", "Charm"]
+  },
+  {
+    "student": "Haruna",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Hasumi",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Hibiki",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Hifumi",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Hifumi_Swimsuit",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Hina",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Hina_Swimsuit",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Hoshino",
+    "equipment": ["Shoes", "Bag", "Charm"]
+  },
+  {
+    "student": "Iori",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Iori_Swimsuit",
+    "equipment": ["Shoes", "Badge", "Watch"]
+  },
+  {
+    "student": "Izumi",
+    "equipment": ["Gloves", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Izumi_Swimsuit",
+    "equipment": ["Shoes", "Bag", "Necklace"]
+  },
+  {
+    "student": "Izuna",
+    "equipment": ["Gloves", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Junko",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Juri",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Karin",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Karin_Bunny",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Kayoko",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Kirino",
+    "equipment": ["Shoes", "Badge", "Charm"]
+  },
+  {
+    "student": "Koharu",
+    "equipment": ["Hat", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Kotama",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Kotori",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Maki",
+    "equipment": ["Gloves", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Mari",
+    "equipment": ["Gloves", "Bag", "Necklace"]
+  },
+  {
+    "student": "Mashiro",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Mashiro_Swimsuit",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Midori",
+    "equipment": ["Gloves", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Miku",
+    "equipment": ["Shoes", "Badge", "Necklace"]
+  },
+  {
+    "student": "Mimori",
+    "equipment": ["Gloves", "Bag", "Necklace"]
+  },
+  {
+    "student": "Momoi",
+    "equipment": ["Shoes", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Mutsuki",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Mutsuki_NewYear",
+    "equipment": ["Gloves", "Badge", "Watch"]
+  },
+  {
+    "student": "Natsu",
+    "equipment": ["Shoes", "Bag", "Charm"]
+  },
+  {
+    "student": "Neru",
+    "equipment": ["Hat", "Badge", "Charm"]
+  },
+  {
+    "student": "Neru_Bunny",
+    "equipment": ["Shoes", "Bag", "Charm"]
+  },
+  {
+    "student": "Nodoka",
+    "equipment": ["Gloves", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Nodoka_HotSpring",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Nonomi",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Pina",
+    "equipment": ["Gloves", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Saya",
+    "equipment": ["Gloves", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Saya_Casual",
+    "equipment": ["Gloves", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Sena",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Serika",
+    "equipment": ["Gloves", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Serika_NewYear",
+    "equipment": ["Shoes", "Bag", "Watch"]
+  },
+  {
+    "student": "Serina",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Shimiko",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Shiroko",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Shiroko_Riding",
+    "equipment": ["Gloves", "Badge", "Watch"]
+  },
+  {
+    "student": "Shizuko",
+    "equipment": ["Hat", "Badge", "Necklace"]
+  },
+  {
+    "student": "Shun",
+    "equipment": ["Gloves", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Shun_Loli",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Sumire",
+    "equipment": ["Hat", "Bag", "Charm"]
+  },
+  {
+    "student": "Suzumi",
+    "equipment": ["Shoes", "Hairpin", "Necklace"]
+  },
+  {
+    "student": "Tomoe",
+    "equipment": ["Gloves", "Badge", "Watch"]
+  },
+  {
+    "student": "Tsubaki",
+    "equipment": ["Shoes", "Bag", "Charm"]
+  },
+  {
+    "student": "Tsurugi",
+    "equipment": ["Shoes", "Bag", "Charm"]
+  },
+  {
+    "student": "Tsurugi_Swimsuit",
+    "equipment": ["Shoes", "Bag", "Charm"]
+  },
+  {
+    "student": "Utaha",
+    "equipment": ["Gloves", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Wakamo",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Yoshimi",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  },
+  {
+    "student": "Yuuka",
+    "equipment": ["Shoes", "Badge", "Charm"]
+  },
+  {
+    "student": "Yuzu",
+    "equipment": ["Hat", "Hairpin", "Watch"]
+  }
+]

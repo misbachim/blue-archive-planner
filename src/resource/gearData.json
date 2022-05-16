@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Plain Cap",
+    "type": "gear",
+    "item": "hat",
+    "tier": 0,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/e/e2/Hat_T1_Icon.png"
+  },
+  {
+    "name": "Knitted Hat",
+    "type": "gear",
+    "item": "hat",
+    "tier": 1,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/f/fe/Hat_T2_Icon.png"
+  },
+  {
+    "name": "Big Brother Fedora",
+    "type": "gear",
+    "item": "hat",
+    "tier": 2,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/8/85/Hat_T3_Icon.png"
+  },
+  {
+    "name": "Beret with Ribbon",
+    "type": "gear",
+    "item": "hat",
+    "tier": 3,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/d/d6/Hat_T4_Icon.png"
+  },
+  {
+    "name": "Bulletproof Helmet",
+    "type": "gear",
+    "item": "hat",
+    "tier": 4,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/8/88/Hat_T5_Icon.png"
+  },
+  {
+    "name": "Frilled Mini Hat",
+    "type": "gear",
+    "item": "hat",
+    "tier": 5,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/1/1c/Hat_T6_Icon.png"
+  },
+  {
+    "name": "Sports Gloves",
+    "type": "gear",
+    "item": "glove",
+    "tier": 0,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/6/6e/Gloves_T1_Icon.png"
+  },
+  {
+    "name": "Knit Mittens",
+    "type": "gear",
+    "item": "glove",
+    "tier": 1,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/8/8f/Gloves_T2_Icon.png"
+  },
+  {
+    "name": "Peroro's Potholder",
+    "type": "gear",
+    "item": "glove",
+    "tier": 2,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/9/9a/Gloves_T3_Icon.png"
+  },
+  {
+    "name": "Leather Gloves",
+    "type": "gear",
+    "item": "glove",
+    "tier": 3,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/3/36/Gloves_T4_Icon.png"
+  },
+  {
+    "name": "Tactical Gloves",
+    "type": "gear",
+    "item": "glove",
+    "tier": 4,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/d/de/Gloves_T5_Icon.png"
+  },
+  {
+    "name": "Lace Gloves",
+    "type": "gear",
+    "item": "glove",
+    "tier": 5,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/e/eb/Gloves_T6_Icon.png"
+  },
+  {
+    "name": "Pink Sneakers",
+    "type": "gear",
+    "item": "shoes",
+    "tier": 0,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/a/a3/Shoe_T1_Icon.png"
+  },
+  {
+    "name": "Mouton Boots",
+    "type": "gear",
+    "item": "shoes",
+    "tier": 1,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/2/28/Shoe_T2_Icon.png"
+  },
+  {
+    "name": "Pinky Kapa Slippers",
+    "type": "gear",
+    "item": "shoes",
+    "tier": 2,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/4/48/Shoe_T3_Icon.png"
+  },
+  {
+    "name": "Antique Enamel Loafers",
+    "type": "gear",
+    "item": "shoes",
+    "tier": 3,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/c/c3/Shoe_T4_Icon.png"
+  },
+  {
+    "name": "Combat Boots",
+    "type": "gear",
+    "item": "shoes",
+    "tier": 4,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/8/8d/Shoe_T5_Icon.png"
+  },
+  {
+    "name": "Heel Pumps",
+    "type": "gear",
+    "item": "shoes",
+    "tier": 5,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/e/e1/Shoe_T6_Icon.png"
+  },
+  {
+    "name": "Waterproof Sports Bags",
+    "type": "gear",
+    "item": "bag",
+    "tier": 0,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/f/f3/Bag_T1_Icon.png"
+  },
+  {
+    "name": "Cold Weather Bags",
+    "type": "gear",
+    "item": "bag",
+    "tier": 1,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/d/d6/Bag_T2_Icon.png"
+  },
+  {
+    "name": "Peroro Bag",
+    "type": "gear",
+    "item": "bag",
+    "tier": 2,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/b/b1/Bag_T3_Icon.png"
+  },
+  {
+    "name": "Navy Blue School Bag",
+    "type": "gear",
+    "item": "bag",
+    "tier": 3,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/c/cd/Bag_T4_Icon.png"
+  },
+  {
+    "name": "Battle School Bag",
+    "type": "gear",
+    "item": "bag",
+    "tier": 4,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/72/Bag_T5_Icon.png"
+  },
+  {
+    "name": "Devil Wing Tote Bag",
+    "type": "gear",
+    "item": "bag",
+    "tier": 5,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/6/6b/Bag_T6_Icon.png"
+  },
+  {
+    "name": "Serval Metal Badge",
+    "type": "gear",
+    "item": "badge",
+    "tier": 0,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/2/20/Badge_T1_Icon.png"
+  },
+  {
+    "name": "Manaslu Felt Badge",
+    "type": "gear",
+    "item": "badge",
+    "tier": 1,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/4/45/Badge_T2_Icon.png"
+  },
+  {
+    "name": "Angry Adelie's Badge",
+    "type": "gear",
+    "item": "badge",
+    "tier": 2,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/d/d5/Badge_T3_Icon.png"
+  },
+  {
+    "name": "Veronica Embroidery Badge",
+    "type": "gear",
+    "item": "badge",
+    "tier": 3,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/0/08/Badge_T4_Icon.png"
+  },
+  {
+    "name": "Kazeyama's Badge",
+    "type": "gear",
+    "item": "badge",
+    "tier": 4,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/c/ca/Badge_T5_Icon.png"
+  },
+  {
+    "name": "Coco Devil Badge",
+    "type": "gear",
+    "item": "badge",
+    "tier": 5,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/75/Badge_T6_Icon.png"
+  },
+  {
+    "name": "Tennis Headband",
+    "type": "gear",
+    "item": "hairpin",
+    "tier": 0,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/1/1a/Hairpin_T1_Icon.png"
+  },
+  {
+    "name": "Scrunchie",
+    "type": "gear",
+    "item": "hairpin",
+    "tier": 1,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/d/de/Hairpin_T2_Icon.png"
+  },
+  {
+    "name": "Peach Hairpin",
+    "type": "gear",
+    "item": "hairpin",
+    "tier": 2,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/0/05/Hairpin_T3_Icon.png"
+  },
+  {
+    "name": "Winged Hairpin",
+    "type": "gear",
+    "item": "hairpin",
+    "tier": 3,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/e/ef/Hairpin_T4_Icon.png"
+  },
+  {
+    "name": "Multi-Purpose Hairpin",
+    "type": "gear",
+    "item": "hairpin",
+    "tier": 4,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/7a/Hairpin_T5_Icon.png"
+  },
+  {
+    "name": "Bat Hairpin",
+    "type": "gear",
+    "item": "hairpin",
+    "tier": 5,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/6/67/Hairpin_T6_Icon.png"
+  },
+  {
+    "name": "Traffic Safety Charms",
+    "type": "gear",
+    "item": "charm",
+    "tier": 0,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/7c/Charm_T1_Icon.png"
+  },
+  {
+    "name": "Fever Cairo",
+    "type": "gear",
+    "item": "charm",
+    "tier": 1,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/1/10/Charm_T2_Icon.png"
+  },
+  {
+    "name": "Peroro's Amulet",
+    "type": "gear",
+    "item": "charm",
+    "tier": 2,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/9/9e/Charm_T3_Icon.png"
+  },
+  {
+    "name": "Cruz (Cross Sign)",
+    "type": "gear",
+    "item": "charm",
+    "tier": 3,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/e/e9/Charm_T4_Icon.png"
+  },
+  {
+    "name": "Camouflage Daruma",
+    "type": "gear",
+    "item": "charm",
+    "tier": 4,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/f/f2/Charm_T5_Icon.png"
+  },
+  {
+    "name": "Cursed Doll",
+    "type": "gear",
+    "item": "charm",
+    "tier": 5,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/8/8f/Charm_T6_Icon.png"
+  },
+  {
+    "name": "Digital Watch",
+    "type": "gear",
+    "item": "watch",
+    "tier": 0,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/3/31/Watch_T1_Icon.png"
+  },
+  {
+    "name": "Leather Watch",
+    "type": "gear",
+    "item": "watch",
+    "tier": 1,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/b/b4/Watch_T2_Icon.png"
+  },
+  {
+    "name": "Wavecat Clock",
+    "type": "gear",
+    "item": "watch",
+    "tier": 2,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/9/90/Watch_T3_Icon.png"
+  },
+  {
+    "name": "Antique Pocket Watch",
+    "type": "gear",
+    "item": "watch",
+    "tier": 3,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/4/45/Watch_T4_Icon.png"
+  },
+  {
+    "name": "Dustproof Wristwatch",
+    "type": "gear",
+    "item": "watch",
+    "tier": 4,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/1/13/Watch_T5_Icon.png"
+  },
+  {
+    "name": "Gothic Watch",
+    "type": "gear",
+    "item": "watch",
+    "tier": 5,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/71/Watch_T6_Icon.png"
+  },
+  {
+    "name": "Bluetooth Necklace",
+    "type": "gear",
+    "item": "necklace",
+    "tier": 0,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/c/ce/Necklace_T1_Icon.png"
+  },
+  {
+    "name": "Snowflake Pendant",
+    "type": "gear",
+    "item": "necklace",
+    "tier": 1,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/4/4f/Necklace_T2_Icon.png"
+  },
+  {
+    "name": "Nicolai Locket Pendant",
+    "type": "gear",
+    "item": "necklace",
+    "tier": 2,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/77/Necklace_T3_Icon.png"
+  },
+  {
+    "name": "Crucifixion Choker",
+    "type": "gear",
+    "item": "necklace",
+    "tier": 3,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/9/9e/Necklace_T4_Icon.png"
+  },
+  {
+    "name": "Dog Tag",
+    "type": "gear",
+    "item": "necklace",
+    "tier": 4,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/d/de/Necklace_T5_Icon.png"
+  },
+  {
+    "name": "Punk Choker",
+    "type": "gear",
+    "item": "necklace",
+    "tier": 5,
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/73/Necklace_T6_Icon.png"
+  }
+]

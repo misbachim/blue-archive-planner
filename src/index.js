@@ -3,10 +3,16 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { MainGoalProvider } from './contexts/MainGoalContext';
+import { MainInventoryProvider } from './contexts/MainInventoryContext';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <MainInventoryProvider>
+      <MainGoalProvider>
+        <App />
+      </MainGoalProvider>
+    </MainInventoryProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );

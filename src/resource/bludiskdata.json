@@ -1,0 +1,198 @@
+[
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Abydos",
+    "item": "blurayAbydos",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/9/92/Abydos_EX-Skill_Disc_0.png",
+    "tier": 0
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Abydos",
+    "item": "blurayAbydos",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/6/68/Abydos_EX-Skill_Disc_1.png",
+    "tier": 1
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Abydos",
+    "item": "blurayAbydos",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/d/d2/Abydos_EX-Skill_Disc_2.png",
+    "tier": 2
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Abydos",
+    "item": "blurayAbydos",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/74/Abydos_EX-Skill_Disc_3.png",
+    "tier": 3
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Gehenna",
+    "item": "blurayGehenna",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/4/47/Gehenna_EX-Skill_Disc_0.png",
+    "tier": 0
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Gehenna",
+    "item": "blurayGehenna",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/5/57/Gehenna_EX-Skill_Disc_1.png",
+    "tier": 1
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Gehenna",
+    "item": "blurayGehenna",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/2/28/Gehenna_EX-Skill_Disc_2.png",
+    "tier": 2
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Gehenna",
+    "item": "blurayGehenna",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/0/0c/Gehenna_EX-Skill_Disc_3.png",
+    "tier": 3
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Hyakkiyako",
+    "item": "blurayHyakkiyako",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/f/f0/Hyakkiyako_EX-Skill_Disc_0.png",
+    "tier": 0
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Hyakkiyako",
+    "item": "blurayHyakkiyako",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/3/3c/Hyakkiyako_EX-Skill_Disc_1.png",
+    "tier": 1
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Hyakkiyako",
+    "item": "blurayHyakkiyako",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/e/ed/Hyakkiyako_EX-Skill_Disc_2.png",
+    "tier": 2
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Hyakkiyako",
+    "item": "blurayHyakkiyako",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/b/b2/Hyakkiyako_EX-Skill_Disc_3.png",
+    "tier": 3
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Millennium",
+    "item": "blurayMillennium",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/d/d8/Millennium_EX-Skill_Disc_0.png",
+    "tier": 0
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Millennium",
+    "item": "blurayMillennium",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/f/ff/Millennium_EX-Skill_Disc_1.png",
+    "tier": 1
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Millennium",
+    "item": "blurayMillennium",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/79/Millennium_EX-Skill_Disc_2.png",
+    "tier": 2
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Millennium",
+    "item": "blurayMillennium",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/2/21/Millennium_EX-Skill_Disc_3.png",
+    "tier": 3
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray RedWinter",
+    "item": "blurayRedWinter",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/7e/Red_Winter_EX-Skill_Disc_0.png",
+    "tier": 0
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray RedWinter",
+    "item": "blurayRedWinter",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/0/04/Red_Winter_EX-Skill_Disc_1.png",
+    "tier": 1
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray RedWinter",
+    "item": "blurayRedWinter",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/b/b4/Red_Winter_EX-Skill_Disc_2.png",
+    "tier": 2
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray RedWinter",
+    "item": "blurayRedWinter",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/f/f3/Red_Winter_EX-Skill_Disc_3.png",
+    "tier": 3
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Shanhaijing",
+    "item": "blurayShanhaijing",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/a/a2/Shanhaijing_EX-Skill_Disc_0.png ",
+    "tier": 0
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Shanhaijing",
+    "item": "blurayShanhaijing",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/0/0c/Shanhaijing_EX-Skill_Disc_1.png ",
+    "tier": 1
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Shanhaijing",
+    "item": "blurayShanhaijing",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/e/e6/Shanhaijing_EX-Skill_Disc_2.png ",
+    "tier": 2
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Shanhaijing",
+    "item": "blurayShanhaijing",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/2/26/Shanhaijing_EX-Skill_Disc_3.png ",
+    "tier": 3
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Trinity",
+    "item": "blurayTrinity",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/7d/Trinity_EX-Skill_Disc_0.png ",
+    "tier": 0
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Trinity",
+    "item": "blurayTrinity",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/4/48/Trinity_EX-Skill_Disc_1.png ",
+    "tier": 1
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Trinity",
+    "item": "blurayTrinity",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/8/8b/Trinity_EX-Skill_Disc_2.png ",
+    "tier": 2
+  },
+  {
+    "type": "bluray",
+    "name": "Tactical Training Blu-ray Trinity",
+    "item": "blurayTrinity",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/75/Trinity_EX-Skill_Disc_3.png",
+    "tier": 3
+  }
+]

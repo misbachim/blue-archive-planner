@@ -1,0 +1,205 @@
+[
+  {
+    "type": "skillBook",
+    "name": "Tech Note Abydos",
+    "item": "skillBookAbydos",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/f/f0/Abydos_Skill_Book_0.png",
+    "tier": 0
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Abydos",
+    "item": "skillBookAbydos",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/1/10/Abydos_Skill_Book_1.png",
+    "tier": 1
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Abydos",
+    "item": "skillBookAbydos",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/b/be/Abydos_Skill_Book_2.png",
+    "tier": 2
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Abydos",
+    "item": "skillBookAbydos",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/2/2b/Abydos_Skill_Book_3.png",
+    "tier": 3
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Gehenna",
+    "item": "skillBookGehenna",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/1/1a/Gehenna_Skill_Book_0.png",
+    "tier": 0
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Gehenna",
+    "item": "skillBookGehenna",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/e/e0/Gehenna_Skill_Book_1.png",
+    "tier": 1
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Gehenna",
+    "item": "skillBookGehenna",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/a/af/Gehenna_Skill_Book_2.png",
+    "tier": 2
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Gehenna",
+    "item": "skillBookGehenna",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/1/16/Gehenna_Skill_Book_3.png",
+    "tier": 3
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Hyakkiyako",
+    "item": "skillBookHyakkiyako",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/a/aa/Hyakkiyako_Skill_Book_0.png",
+    "tier": 0
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Hyakkiyako",
+    "item": "skillBookHyakkiyako",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/a/aa/Hyakkiyako_Skill_Book_1.png",
+    "tier": 1
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Hyakkiyako",
+    "item": "skillBookHyakkiyako",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/a/a8/Hyakkiyako_Skill_Book_2.png",
+    "tier": 2
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Hyakkiyako",
+    "item": "skillBookHyakkiyako",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/3/35/Hyakkiyako_Skill_Book_3.png",
+    "tier": 3
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Millennium",
+    "item": "skillBookMillennium",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/4/43/Millennium_Skill_Book_0.png",
+    "tier": 0
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Millennium",
+    "item": "skillBookMillennium",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/4/4a/Millennium_Skill_Book_1.png",
+    "tier": 1
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Millennium",
+    "item": "skillBookMillennium",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/1/1b/Millennium_Skill_Book_2.png",
+    "tier": 2
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Millennium",
+    "item": "skillBookMillennium",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/9/9a/Millennium_Skill_Book_3.png",
+    "tier": 3
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Red Winter",
+    "item": "skillBookRedWinter",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/9/9d/Red_Winter_Skill_Book_0.png",
+    "tier": 0
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Red Winter",
+    "item": "skillBookRedWinter",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/c/ca/Red_Winter_Skill_Book_1.png",
+    "tier": 1
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Red Winter",
+    "item": "skillBookRedWinter",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/6/6c/Red_Winter_Skill_Book_2.png",
+    "tier": 2
+  },
+  {
+    "type": "skillBook",
+    "name": "Red WinterS_3",
+    "item": "skillBookRed Winte",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/2/2d/Red_Winter_Skill_Book_3.png",
+    "tier": 3
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Shanhaijing",
+    "item": "skillBookShanhaijing",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/7/7e/Shanhaijing_Skill_Book_0.png",
+    "tier": 0
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Shanhaijing",
+    "item": "skillBookShanhaijing",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/3/37/Shanhaijing_Skill_Book_1.png",
+    "tier": 1
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Shanhaijing",
+    "item": "skillBookShanhaijing",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/f/f3/Shanhaijing_Skill_Book_2.png",
+    "tier": 2
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Shanhaijing",
+    "item": "skillBookShanhaijing",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/e/e5/Shanhaijing_Skill_Book_3.png",
+    "tier": 3
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Trinity",
+    "item": "skillBookTrinity",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/b/b1/Trinity_Skill_Book_0.png",
+    "tier": 0
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Trinity",
+    "item": "skillBookTrinity",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/c/cc/Trinity_Skill_Book_1.png",
+    "tier": 1
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Trinity",
+    "item": "skillBookTrinity",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/c/cb/Trinity_Skill_Book_2.png",
+    "tier": 2
+  },
+  {
+    "type": "skillBook",
+    "name": "Tech Note Trinity",
+    "item": "skillBookTrinity",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/3/30/Trinity_Skill_Book_3.png",
+    "tier": 3
+  },
+  {
+    "type": "skillBook",
+    "name": "SecretTech",
+    "item": "skillBookSecret",
+    "image": "https://static.wikia.nocookie.net/blue-archive/images/8/81/Ultimate_Skill_Book.png",
+    "tier": 3
+  }
+]

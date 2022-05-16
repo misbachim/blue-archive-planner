@@ -1,0 +1,1462 @@
+[
+    {
+        "stage": "4-1",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 1,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 1,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 1,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "4-2",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 1,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 1,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 1,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "4-3",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 1,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 1,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 1,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "4-4",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 1,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 1,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 1,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "4-5",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 1,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 1,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 1,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "5-1",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 1,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 1,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 1,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "5-2",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 1,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 1,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 1,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "5-3",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 1,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 1,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 1,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "5-4",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 1,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 1,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 1,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "5-5",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 1,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 1,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 1,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "7-1",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 2,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 2,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 2,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "7-2",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 2,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 2,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 2,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "7-3",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 2,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 2,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 2,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "7-4",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 2,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 2,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 2,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "7-5",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 2,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 2,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 2,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "8-1",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 2,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 2,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 2,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "8-2",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 2,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 2,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 2,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "8-3",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 2,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 2,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 2,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "8-4",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 2,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 2,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 2,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "8-5",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 2,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 2,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 2,
+                "chance": 0.258
+            }
+        ]
+    },
+    {
+        "stage": "10-1",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 3,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "10-2",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 3,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "10-3",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 3,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "10-4",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 3,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "10-5",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 3,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "11-1",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 3,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "11-2",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 3,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "11-3",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 3,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "11-4",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 3,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "11-5",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 3,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 3,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "13-1",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 4,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 2,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "13-2",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 4,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 2,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "13-3",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 4,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 2,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "13-4",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 4,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 2,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "shoes",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "13-5",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 4,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 2,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "gloves",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "hat",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "14-1",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 4,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 2,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "14-2",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 4,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 2,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "14-3",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 4,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 2,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "14-4",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 4,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 2,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "watch",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "charm",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "badge",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    },
+    {
+        "stage": "14-5",
+        "drops": [
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 4,
+                "chance": 0.344
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 4,
+                "chance": 0.258
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 2,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 2,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "necklace",
+                "tier": 1,
+                "chance": 0.3
+            },
+            {
+                "type": "gear",
+                "item": "hairpin",
+                "tier": 1,
+                "chance": 0.225
+            },
+            {
+                "type": "gear",
+                "item": "bag",
+                "tier": 1,
+                "chance": 0.225
+            }
+        ]
+    }
+]

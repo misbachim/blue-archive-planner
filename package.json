@@ -1,17 +1,30 @@
 {
   "name": "blue-archive-planner",
   "version": "0.1.0",
+  "homepage": "https://misbachim.github.io/blue-archive-planner",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.1.3",
+    "cors": "^2.8.5",
     "react": "^17.0.2",
+    "react-bootstrap": "^2.2.1",
+    "react-custom-scrollbars-2": "^4.4.0",
     "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^6.2.2",
     "react-scripts": "5.0.0",
+    "react-spring": "^9.4.4",
+    "reactjs-popup": "^2.0.5",
+    "styled-components": "^5.3.3",
+    "uuid": "^8.3.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,5 +47,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "proxy": "https://api.torikushi.xyz/",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
